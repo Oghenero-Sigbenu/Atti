@@ -15,7 +15,10 @@ function Footer() {
                 Save lives, sing the word.
               </span>
               <br></br>
-              <span className="font-normal">Address</span>
+              <span className="font-normal text-sm">
+                FLAT 1, POCAL PARK ESTATE, PLOT 1A,
+                <br /> DELE ADEDEJI STREET, LEKKI PHASE 1 LAGOS.
+              </span>
             </p>
             <div className="flex gap-2 ml-4 mt-4">
               {mediaLinks?.map(({ path, title, icon }, i) => (

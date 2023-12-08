@@ -46,12 +46,14 @@ function Contact() {
             </div>
             <div className="flex mb-3">
               <PhoneIcon className="w-4 mr-3" />
-              <p>+2348130968441</p> <br />
+              <p className="mr-[1rem]">+2348130968441</p>
               <p>+19894912840</p>
             </div>
             <div className="flex mb-3">
               <MailIcon className="w-4 mr-3" />
-              <p>contact@attinaomi.org</p>
+              <a href="mailto:contact@attinaomi.org" className="text-[#0059ff]">
+                contact@attinaomi.org
+              </a>
             </div>
           </div>
         </div>
