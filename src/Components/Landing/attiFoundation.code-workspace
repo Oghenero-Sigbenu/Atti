@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../.."
+    },
+    {
+      "path": "../../../../sasom"
+    },
+    {
+      "path": "../../../../form"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "form"
+  }
+}
