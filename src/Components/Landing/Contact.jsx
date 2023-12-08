@@ -20,7 +20,7 @@ function ContactForm() {
               placeholder="Enter first name"
             />
             <input
-              name="email"
+              name="lastname"
               type="text"
               className="border-[.1px] border-[#e0dada] mb-6 w-[48%] rounded-t-lg py-[1rem] px-4 outline-0"
               placeholder="Enter last name"
@@ -45,6 +45,7 @@ function ContactForm() {
             placeholder="Enter Subject"
           />
           <textarea
+            name="message"
             className="border-[.1px] border-[#e0dada] rounded-b-lg h-[120px] px-4 py-3 outline-0"
             placeholder="Type a message"
           />

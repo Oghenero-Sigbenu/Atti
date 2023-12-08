@@ -9,7 +9,7 @@ function Footer() {
           <img src={Logo} alt="Rasmin" className="object-contain w-[100px] " />
           <div>
             <p className="text-[1rem] md:text-[1.3rem] leading-5 md:leading-7 ml-4 font-extrabold al text-white ">
-              Ati Naomi's <br></br>
+              Atti Naomi's <br></br>
               Foundation<br></br>
               <span className="text-blue text-[1rem] font-light">
                 Save lives, sing the word.

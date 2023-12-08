@@ -9,9 +9,9 @@ function AboutHero() {
             ABOUT US
           </h4>
           <p className="mt-[1rem]  text-[1rem] leading-7">
-            A non-governmental organization aimed at touching the lives of
-            individuals through providing good health,food and clothing. With
-            us, the act of saving lives goes in the little care that you give.
+            A non-profit organization aimed at touching the lives of individuals
+            through providing good health,food and clothing. With us, the act of
+            saving lives goes in the little care that you give.
           </p>
         </div>
         <div className="md:h-[400px] md:w-[38%] w-full -mb-[4rem] md:mb-0">

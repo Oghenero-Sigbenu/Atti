@@ -1,4 +1,4 @@
-import { Layout, Hero, Gallery, AboutHero } from "../../Components";
+import { Layout, Hero, Gallery } from "../../Components";
 import ExecutivesRow from "../../Components/Landing/ExecutivesRow";
 import { useRef } from "react";
 import {
@@ -11,7 +11,7 @@ import {
 } from "framer-motion";
 import Title from "../../Components/Common/Title";
 
-function LandingPage({ children = "girl", baseVelocity = 10 }) {
+function LandingPage({ baseVelocity = 10 }) {
   const baseX = useMotionValue(0);
   const { scrollY } = useScroll();
   const scrollVelocity = useVelocity(scrollY);
@@ -51,7 +51,7 @@ function LandingPage({ children = "girl", baseVelocity = 10 }) {
   return (
     <Layout className="relative">
       <Hero />
-      <AboutHero />
+
       <div className="my-[4rem] mt-[6rem]">
         <Title
           text="text-primary"
@@ -61,8 +61,9 @@ function LandingPage({ children = "girl", baseVelocity = 10 }) {
         />
         <div>
           <p className="text-center mt-[1rem] mx-auto md:w-[50%]">
-            A healthy competition to encourage differently abled individuals in
-            exploring and building their talents.
+            A non-profit organization aimed at touching the lives of individuals
+            through providing good health,food and clothing. With us, the act of
+            saving lives goes in the little care that you give.
           </p>
         </div>
       </div>

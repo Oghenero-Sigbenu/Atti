@@ -34,7 +34,7 @@ function Header() {
               <img src={Logo} alt="logo" className="w-[50px]" />
             </div>
             <p className="text-[.6rem] leading-3 ml-4 font-extrabold text-blue  w-[250px]">
-              Ati Naomi's <br></br>
+              Atti Naomi's <br></br>
               Foundation<br></br>
               <span className="text-primary font-light">
                 Save lives, sing the word.
