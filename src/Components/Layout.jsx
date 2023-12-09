@@ -2,13 +2,13 @@ import ContactForm from "./Landing/Contact";
 import Footer from "./Common/Footer";
 import Header from "./Common/Header";
 
-function Layout({ children }) {
+function Layout({ children, contact }) {
   return (
     <div className="">
       <Header />
       <div>{children}</div>
       <div className="">
-        <ContactForm />
+        {contact && <ContactForm />}
         <Footer />
       </div>
     </div>
