@@ -78,13 +78,13 @@ export const events = [
     description:
       "We are excited to announce that Atti Naomi’s foundation is hosting a charity event for orphans at Mother Theresa Orphanage Home. The event will take place on December 17th from 12pm to 3pm.",
     second:
-      "We are accepting donations through 0124650559 Gtbank. For sponsorship or partnership please contact +2349154355502  or +19894912840. Kindly see flier for more information. We hope that you will join us in supporting this worthy cause. Together, we can make a difference in the lives of these children. ",
+      "For sponsorship, donations or partnership please contact +2349154355502  or +19894912840. Kindly see flier for more information. We hope that you will join us in supporting this worthy cause. Together, we can make a difference in the lives of these children. ",
     time: "12:00pm - 3:00pm",
     date: "December 17th, 2023",
     url: "",
     deadline: "18th July, 2023 ",
-    host: "Maryland Deandery",
-    amount: "#5,000",
+    host: "",
+    amount: "",
     active: 0,
   },
 ];
