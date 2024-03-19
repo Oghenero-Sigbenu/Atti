@@ -1,4 +1,4 @@
-import { Layout, Hero, Gallery } from "../../Components";
+import { Layout, Hero, Gallery, Vision } from "../../Components";
 import ExecutivesRow from "../../Components/Landing/ExecutivesRow";
 import { useRef } from "react";
 import {
@@ -52,21 +52,7 @@ function LandingPage({ baseVelocity = 10 }) {
     <Layout className="relative">
       <Hero />
 
-      <div className="my-[4rem] mt-[6rem]">
-        <Title
-          text="text-primary"
-          title="SAVE LIVES, SING THE WORLD"
-          bg="bg"
-          border="border-blue"
-        />
-        <div>
-          <p className="text-center mt-[1rem] mx-auto md:w-[50%]">
-            A non-profit organization aimed at touching the lives of individuals
-            through providing good health,food and clothing. With us, the act of
-            saving lives goes in the little care that you give.
-          </p>
-        </div>
-      </div>
+      <Vision />
       <ExecutivesRow />
       <Gallery />
     </Layout>

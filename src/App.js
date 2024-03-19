@@ -10,6 +10,7 @@ import { Executives } from "./Components";
 import Contact from "./Pages/ContactUs";
 import News from "./Pages/News";
 import Gallery from "./Pages/Gallery";
+import Financials from "./Pages/Financials";
 
 const Router = createBrowserRouter(
   createRoutesFromElements(
@@ -20,6 +21,7 @@ const Router = createBrowserRouter(
       <Route path="/news" element={<News />} />
       <Route path="/policy" element={<Policy />} />
       <Route path="/gallery" element={<Gallery />} />
+      <Route path="/financials" element={<Financials />} />
       <Route path="/executives" element={<Executives />} />
       <Route path="*" element={<NotFound />} />
     </Route>

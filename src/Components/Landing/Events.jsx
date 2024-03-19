@@ -8,14 +8,14 @@ function Events() {
     <div className="w-full bg-[]  pb-[4rem]">
       <Carousel
         className=" "
-        autoPlay={false}
+        autoPlay={true}
         infiniteLoop={true}
         showStatus={false}
         showThumbs={false}
         // centerMode={true}
         centerSlidePercentage={100}
         showArrows={true}
-        interval={5000}
+        interval={3000}
       >
         {events?.map(
           ({
