@@ -9,7 +9,6 @@ import {
   useVelocity,
   useAnimationFrame,
 } from "framer-motion";
-import Title from "../../Components/Common/Title";
 
 function LandingPage({ baseVelocity = 10 }) {
   const baseX = useMotionValue(0);
