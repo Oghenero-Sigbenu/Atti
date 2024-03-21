@@ -45,6 +45,17 @@ function SecondRow() {
             </li>
             Collect and analyze health data to identify specific needs, track
             progress, and adapt services accordingly.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              - Feed an individual:
+            </li>
+            This includes occasional distribution of food, clothings and
+            rendering of free health services to those in need at least twice a
+            year.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              - ⁠Sing the word:
+            </li>
+            Healthy competition to encourage differently abled individuals in
+            exploring and building their talents.
           </ul>
         </div>
       </div>
