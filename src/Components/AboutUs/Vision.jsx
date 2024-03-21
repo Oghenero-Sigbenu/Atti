@@ -82,6 +82,17 @@ function Vision() {
             </li>
             We are committed to transparency, ethical practices, and responsible
             stewardship of resources.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              - Feed an individual:
+            </li>
+            This includes occasional distribution of food, clothings and
+            rendering of free health services to those in need at least twice a
+            year.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              - ⁠Sing the word:
+            </li>
+            Healthy competition to encourage differently abled individuals in
+            exploring and building their talents.
           </ul>
         </div>
       </div>
