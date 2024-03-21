@@ -13,27 +13,38 @@ function SecondRow() {
           </h4>
           <ul className="mt-[1rem]  text-[1rem] leading-7">
             <li className="font-bold list-disc mt-[.5rem] text-primary">
-              Routine health outreach:
-            </li>
-            This includes free blood pressure check, blood glucose check,
-            malaria test, BMI, HIV test and counseling at least once every
-            month.
-            <li className="font-bold list-disc  mt-[.5rem] text-primary">
               {" "}
-              Subsidized check ups:
+              Reach the Unreachable:
             </li>
-            Test for ovarian cancer and breast cancer among others.
-            <li className="font-bold list-disc  mt-[.5rem] text-primary">
-              Feed an individual:
+            Establish mobile clinics, telemedicine networks, and community
+            health hubs to bring healthcare directly to remote areas. Prioritize
+            regions with limited infrastructure and long travel times.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              {" "}
+              Holistic Care:
             </li>
-            This includes occasional distribution of food, clothings and
-            rendering of free health services to those in need at least twice a
-            year.
-            <li className="font-bold list-disc  mt-[.5rem] text-primary">
-              Sing the World:
+            Deliver not only medical treatment but also preventive services,
+            health education, mental health support, and nutrition programs.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              {" "}
+              Collaborate:
             </li>
-            A healthy competition to encourage differently abled individuals in
-            exploring and building their talents.
+            Partner with local governments, NGOs, and other stakeholders to
+            maximize impact. Leverage existing resources and build sustainable
+            networks.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              {" "}
+              Empower Communities:
+            </li>
+            Train local healthcare workers, community health volunteers, and
+            student volunteers. Empower communities to take ownership of their
+            health.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
+              {" "}
+              Data-Driven Solutions:
+            </li>
+            Collect and analyze health data to identify specific needs, track
+            progress, and adapt services accordingly.
           </ul>
         </div>
       </div>

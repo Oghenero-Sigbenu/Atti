@@ -46,78 +46,42 @@ function Vision() {
       </div>
 
       <div className="flex justify-between flex-wrap  mt-[3rem] max-w-[90%] lg:max-w-[85%] mx-auto ">
-        <div className="w-full md:w-[48%] mb-[4rem]">
-          <img src={Target} alt="icon" className="w-[80px] mx-auto mb-[1rem]" />
-
-          <h4 className="text-[2rem] text-center  font-extrabold leading-8 text-primary ">
-            What we do?
-          </h4>
-
-          <ul className="text-left">
-            <li className="mb-[1rem]">
-              {" "}
-              - Reach the Unreachable: Establish mobile clinics, telemedicine
-              networks, and community health hubs to bring healthcare directly
-              to remote areas. Prioritize regions with limited infrastructure
-              and long travel times.
-            </li>
-            <li className="mb-[1rem]">
-              {" "}
-              - Holistic Care:Deliver not only medical treatment but also
-              preventive services, health education, mental health support, and
-              nutrition programs.
-            </li>
-            <li className="mb-[1rem]">
-              {" "}
-              - Collaborate:Partner with local governments, NGOs, and other
-              stakeholders to maximize impact. Leverage existing resources and
-              build sustainable networks.
-            </li>
-            <li className="mb-[1rem]">
-              {" "}
-              - Empower Communities:Train local healthcare workers, community
-              health volunteers, and student volunteers. Empower communities to
-              take ownership of their health.
-            </li>
-            <li className="mb-[1rem]">
-              {" "}
-              - Data-Driven Solutions:Collect and analyze health data to
-              identify specific needs, track progress, and adapt services
-              accordingly.
-            </li>
-          </ul>
-        </div>
-        <div className="w-full  mx-auto md:w-[48%] mb-[4rem]">
+        <div className="w-full  mx-auto md:w-[70%] mb-[4rem]">
           <img src={Target} alt="icon" className="w-[80px] mx-auto mb-[1rem]" />
           <h4 className="text-[2rem] mb-[1rem] text-center  font-extrabold leading-8 text-primary ">
             Our Core Value
           </h4>
-          <ul className="text-left">
-            <li className="mb-[1rem]">
+          <ul className="text-left  leading-">
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
               {" "}
-              - Compassion:We approach every individual with empathy, kindness,
-              and a deep understanding of their unique circumstances.
+              Compassion:
             </li>
-            <li className="mb-[1rem]">
+            We approach every individual with empathy, kindness, and a deep
+            understanding of their unique circumstances.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
               {" "}
-              - Equity:We believe that everyone deserves equal access to
-              healthcare, regardless of their background or location.
+              Equity:
             </li>
-            <li className="mb-[1rem]">
+            We believe that everyone deserves equal access to healthcare,
+            regardless of their background or location.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
               {" "}
-              - Innovation: We embrace creative solutions, technology, and novel
-              approaches to overcome barriers and improve health outcomes.
+              Innovation:
             </li>
-            <li className="mb-[1rem]">
+            We embrace creative solutions, technology, and novel approaches to
+            overcome barriers and improve health outcomes.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
               {" "}
-              - Collaboration:We work hand-in-hand with communities, partners,
-              and volunteers to achieve our shared goals.
+              Collaboration:
             </li>
-            <li className="mb-[1rem]">
+            We work hand-in-hand with communities, partners, and volunteers to
+            achieve our shared goals.
+            <li className="font-bold list-disc mt-[.5rem] text-primary">
               {" "}
-              - Accountability:We are committed to transparency, ethical
-              practices, and responsible stewardship of resources.
+              Accountability:
             </li>
+            We are committed to transparency, ethical practices, and responsible
+            stewardship of resources.
           </ul>
         </div>
       </div>
