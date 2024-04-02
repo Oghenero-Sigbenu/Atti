@@ -83,7 +83,7 @@ export const events = [
     second:
       "For sponsorship, donations or partnership please contact +2349154355502  or +19894912840. Kindly see flier for more information. We hope that you will join us in supporting this worthy cause. Together, we can make a difference in the lives of these children. ",
     time: "8:00pm - 3:00pm",
-    date: "April 25th, 2023",
+    date: "May 25th, 2023",
     url: "",
     deadline: "18th July, 2023 ",
     host: "",

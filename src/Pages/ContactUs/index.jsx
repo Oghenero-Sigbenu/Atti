@@ -44,6 +44,13 @@ function Contact() {
                 PHASE 1 LAGOS.
               </p>
             </div>
+            <div className="flex mb-3 mt-3">
+              <LocationMarkerIcon className="w-5 mr-3 " />
+              <p className="w-full ">
+                Our second address : 4205 Collegiate Way, Mount pleasant 48858
+                Michigan, USA
+              </p>
+            </div>
             <div className="flex mb-3">
               <PhoneIcon className="w-4 mr-3" />
               <p className="mr-[1rem]">+2348130968441</p>
