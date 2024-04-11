@@ -14,7 +14,7 @@ export const navLinks = [
   { path: "/news", title: "Blog", sub: false },
   { path: "/contact-us", title: "Contact Us", sub: false },
   { path: "/financials", title: "Financials", sub: false },
-  { path: "/", title: "Projects", sub: false },
+  // { path: "/projects", title: "Projects", sub: false },
 ];
 
 export const mediaLinks = [
@@ -77,9 +77,10 @@ export const heroImage = [
 export const events = [
   {
     eflier: Creek,
-    title: "The Creek Health and Wellness Project.",
+    title:
+      "The Creek Health and Wellness (CHW) Project: Bridging Gaps in Riverine Healthcare.",
     description:
-      "We are excited to announce that Atti Naomi’s foundation is hosting a free medical outreach. The event will take place on April 25th, 2024.",
+      "We are excited to announce that Atti Naomi’s foundation is hosting a free medical outreach. The event will take place on May 25th, 2024.",
     second:
       "For sponsorship, donations or partnership please contact +2349154355502  or +19894912840. Kindly see flier for more information. We hope that you will join us in supporting this worthy cause. Together, we can make a difference in the lives of these children. ",
     time: "8:00pm - 3:00pm",
