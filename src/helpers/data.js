@@ -14,7 +14,7 @@ export const navLinks = [
   { path: "/news", title: "Blog", sub: false },
   { path: "/contact-us", title: "Contact Us", sub: false },
   { path: "/financials", title: "Financials", sub: false },
-  // { path: "/projects", title: "Projects", sub: false },
+  { path: "/projects", title: "CHW Projects", sub: false },
 ];
 
 export const mediaLinks = [
@@ -87,7 +87,7 @@ export const events = [
     date: "May 25th, 2023",
     url: "",
     deadline: "18th July, 2023 ",
-    host: "",
+    host: "      Ayakoromor, Nigeria.",
     amount: "",
     active: 0,
   },
@@ -102,7 +102,7 @@ export const events = [
     date: "December 17th, 2023",
     url: "",
     deadline: "18th July, 2023 ",
-    host: "",
+    host: " 117 Demurin Street, Mile 12, Lagos, Nigeria.",
     amount: "",
     active: 0,
   },

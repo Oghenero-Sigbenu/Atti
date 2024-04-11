@@ -11,6 +11,7 @@ import Contact from "./Pages/ContactUs";
 import News from "./Pages/News";
 import Gallery from "./Pages/Gallery";
 import Financials from "./Pages/Financials";
+import Projects from "./Pages/Projects";
 
 const Router = createBrowserRouter(
   createRoutesFromElements(
@@ -19,6 +20,7 @@ const Router = createBrowserRouter(
       <Route path="/about-us" element={<About />} />
       <Route path="/contact-us" element={<Contact />} />
       <Route path="/news" element={<News />} />
+      <Route path="/projects" element={<Projects />} />
       <Route path="/policy" element={<Policy />} />
       <Route path="/gallery" element={<Gallery />} />
       <Route path="/financials" element={<Financials />} />
