@@ -6,6 +6,10 @@ function Projects() {
       <div className="w-full">
         <div className="max-w-[90%]  mt-[2rem] mb-[5rem] lg:max-w-[85%] mx-auto">
           <div>
+            <h4 className="font-bold text-center my-[2rem] text-primary text-[1rem] md:text-[1.5rem]">
+              The Creek Health and Wellness (CHW) Project: Bridging Gaps in
+              Riverine Healthcare.
+            </h4>
             <h4 className="font-bold text-primary text-[1rem] md:text-[1rem]">
               Introduction
             </h4>
@@ -69,6 +73,42 @@ function Projects() {
               involving the community, the project aims to create sustainable
               change. When individuals understand the importance of health, they
               become advocates for their own well-being.
+            </p>
+            <h4 className="font-bold text-primary text-[1rem] md:text-[1rem]">
+              Our First Milestone
+            </h4>
+
+            <p className="mb-[1rem]"> Mark your calendars! </p>
+            <p className="mb-[1rem]">
+              - On May 25th, 2024, the Creek Health and Wellness Project will
+              kick off its inaugural mission in Ayakoromo, Nigeria The floating
+              clinic will set sail, and medical teams will set up camp. It's a
+              day of hope, healing, and transformation.
+            </p>
+
+            <h4 className="font-bold text-primary text-[1rem] md:text-[1rem]">
+              How You Can Help
+            </h4>
+
+            <p className="mb-[1rem]">
+              We invite you to be part of this journey. Support and donations
+              are crucial to sustaining the project. Whether you're an
+              individual, a corporation, or a philanthropic organization, your
+              contribution matters. Reach out to us, spread the word, and let's
+              build healthier communities together.
+            </p>
+            <p className="mb-[1rem]">
+              Remember, every act of kindness ripples through the waterways,
+              touching lives far beyond the horizon.{" "}
+              <p className="font-bold">
+                Join us in making a difference—one river, one person at a time.
+              </p>
+            </p>
+
+            <p className="mb-[1rem]">
+              Atti Naomi's Foundation is committed to saving lives and singing
+              hope into the hearts of those in need. Together, we can create a
+              healthier, more resilient Nigeria.
             </p>
           </div>
         </div>
