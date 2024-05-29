@@ -20,6 +20,15 @@
     },
     {
       "path": "../../../../radartrail-web"
+    },
+    {
+      "path": "../../../../HiFL-Admin"
+    },
+    {
+      "path": "../../../../../../Backend-Api"
+    },
+    {
+      "path": "../../../../../../../Editor-RPM-Backend"
     }
   ],
   "settings": {

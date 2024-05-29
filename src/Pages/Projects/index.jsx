@@ -80,7 +80,7 @@ function Projects() {
 
             <p className="mb-[1rem]"> Mark your calendars! </p>
             <p className="mb-[1rem]">
-              - On May 25th, 2024, the Creek Health and Wellness Project will
+              - On June 26th, 2024, the Creek Health and Wellness Project will
               kick off its inaugural mission in Ayakoromo, Nigeria The floating
               clinic will set sail, and medical teams will set up camp. It's a
               day of hope, healing, and transformation.
