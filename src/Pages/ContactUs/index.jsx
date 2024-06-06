@@ -37,17 +37,20 @@ function Contact() {
               Get in touch with us
             </h2>
             <p>Fill the form below or visit us at our contact address</p>
-            <div className="flex mb-3 mt-3">
+            <h4 className="mb-1 mt-2 font-semibold">Head Office Nigeria</h4>
+            <div className="flex mb-3 mt-1 ">
               <LocationMarkerIcon className="w-5 mr-3 " />
               <p className="w-full">
                 FLAT 1, POCAL PARK ESTATE, PLOT 1A, DELE ADEDEJI STREET, LEKKI
                 PHASE 1 LAGOS.
               </p>
             </div>
-            <div className="flex mb-3 mt-3">
+            <h4 className="mb-1 mt-3 font-semibold">Head Office USA</h4>
+
+            <div className="flex mb-3  mt-1 ">
               <LocationMarkerIcon className="w-5 mr-3 " />
               <p className="w-full ">
-                4205 Collegiate Way, Mount pleasant 48858 Michigan, USA
+                4205 Collegiate Way, Mount Pleasant ,Apt 1024, USA
               </p>
             </div>
             <div className="flex mb-3">

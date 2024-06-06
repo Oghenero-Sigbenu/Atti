@@ -6,6 +6,7 @@ import Instagram from "../Assests/instan.png";
 import Facebook from "../Assests/facebook.png";
 import Link from "../Assests/link.png";
 import Ketu from "../img/event.jpeg";
+import Partner from "../Assests/neews.jpeg";
 import Creek from "../Assests/creek.png";
 
 export const navLinks = [
@@ -103,6 +104,21 @@ export const events = [
     url: "",
     deadline: "18th July, 2023 ",
     host: " 117 Demurin Street, Mile 12, Lagos, Nigeria.",
+    amount: "",
+    active: 0,
+  },
+  {
+    eflier: Partner,
+    title:
+      "Memorial Healthcare USA Partners with Atti Naomi's Foundation to Enhance Community Health in Nigeria.",
+    description:
+      "Ayokoromor Delta State, Nigeria In a groundbreaking collaboration on Wednesday, May 23rd, 2024, Memorial Healthcare Owosso and Atti Naomi's Foundation have joined forces to improve community health and wellness in Nigeria. The partnership aims to empower underserved populations through preventive care, education, and resource sharing.",
+    second: "",
+    time: "12:00pm - 3:00pm",
+    date: "May 23rd, 2024",
+    url: "",
+    deadline: "18th July, 2023 ",
+    host: " Memorial Healthcare USA.",
     amount: "",
     active: 0,
   },
