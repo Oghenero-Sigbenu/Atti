@@ -29,6 +29,9 @@
     },
     {
       "path": "../../../../../../../Editor-RPM-Backend"
+    },
+    {
+      "path": "../../../../../../../Fansweek-web"
     }
   ],
   "settings": {
