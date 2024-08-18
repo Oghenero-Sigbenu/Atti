@@ -6,6 +6,7 @@ import Instagram from "../Assests/instan.png";
 import Facebook from "../Assests/facebook.png";
 import Link from "../Assests/link.png";
 import Ketu from "../img/event.jpeg";
+import Pharm from "../img/Pharm.jpeg";
 import Partner from "../Assests/neews.jpeg";
 import Creek from "../Assests/creek.png";
 
@@ -43,7 +44,7 @@ export const mediaLinks = [
 export const executives = [
   {
     photo: Ella,
-    title: "Dr.",
+    title: "Pharm.(Dr.)",
     names: "Emmanuella Omomoemi ",
     lastName: "Agbegha",
     position: "Chairman",
@@ -61,6 +62,13 @@ export const executives = [
     names: "Philomena",
     lastName: "Erhurhun",
     position: "Secretary",
+  },
+  {
+    photo: Pharm,
+    title: "Pharm.(Dr.)",
+    names: " Rosemary",
+    lastName: "Chibuogwu",
+    position: "Executive Director",
   },
 ];
 

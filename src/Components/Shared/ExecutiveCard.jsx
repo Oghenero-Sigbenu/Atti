@@ -10,7 +10,7 @@ function ExecutivesCard({ item: { lastName, names, photo, title, position } }) {
           />
         </div>
       </div>
-      <p className=" text-primary font-semibold">{names}</p>
+      <p className=" text-primary font-semibold">{title + " " + names}</p>
       <p className=" text-primary font-semibold">{lastName}</p>
       <p className="text-[#A7A5A5] font-normal">{position}</p>
     </div>

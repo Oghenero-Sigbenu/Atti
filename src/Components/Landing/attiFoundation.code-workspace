@@ -32,6 +32,9 @@
     },
     {
       "path": "../../../../../../../Fansweek-web"
+    },
+    {
+      "path": "../../../../portal"
     }
   ],
   "settings": {
