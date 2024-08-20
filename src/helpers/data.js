@@ -7,6 +7,7 @@ import Facebook from "../Assests/facebook.png";
 import Link from "../Assests/link.png";
 import Ketu from "../img/event.jpeg";
 import Pharm from "../img/Pharm.jpeg";
+import Col from "../img/col.jpg";
 import Partner from "../Assests/neews.jpeg";
 import Creek from "../Assests/creek.png";
 
@@ -69,6 +70,13 @@ export const executives = [
     names: " Rosemary",
     lastName: "Chibuogwu",
     position: "Executive Director",
+  },
+  {
+    photo: Col,
+    title: "Mr.",
+    names: " Collin ",
+    lastName: "O’Connor",
+    position: "Director of Programs, USA",
   },
 ];
 
