@@ -1,4 +1,5 @@
 import Ella from "../img/Ella.jpeg";
+import Nero from "../img/Nero.png";
 import Philo from "../img/Philo.jpeg";
 import Man from "../img/Man.jpeg";
 import HeroImg from "../Assests/hero.png";
@@ -77,6 +78,13 @@ export const executives = [
     names: " Collin ",
     lastName: "O’Connor",
     position: "Director of Programs, USA",
+  },
+  {
+    photo: Nero,
+    title: "Mrs.",
+    names: " Oghenero ",
+    lastName: "Sigbenu",
+    position: "Software Developer",
   },
 ];
 

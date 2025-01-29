@@ -22,7 +22,7 @@ function Executives() {
             : executives &&
               executives &&
               executives
-                ?.slice(0, 4)
+                ?.slice(0, 6)
                 .map((item) => <ExecutivesCard item={item} />)}
         </div>
         {window.location.pathname === "/executives" ? (

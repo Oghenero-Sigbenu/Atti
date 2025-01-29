@@ -13,14 +13,14 @@ function ExecutivesRow() {
           border="border-blue"
         />
 
-        <div className="flex flex-wrap mx-auto max-w-[90%] lg:max-w-[85%] justify-center md:justify-between py-[2rem]">
+        <div className="flex flex-wrap mx-auto max-w-[90%] lg:max-w-[85%] justify-center py-[2rem]">
           {window.location.pathname === "/executives"
             ? executives &&
               executives?.map((item) => <ExecutivesCard item={item} />)
             : executives &&
               executives &&
               executives
-                ?.slice(0, 5)
+                ?.slice(0, 8)
                 .map((item) => <ExecutivesCard item={item} />)}
         </div>
         {window.location.pathname === "/executives" ? (
