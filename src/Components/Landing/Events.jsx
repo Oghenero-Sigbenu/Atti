@@ -29,19 +29,19 @@ function Events() {
             host,
           }) => (
             <div className="w-[80%] flex-wrap gap-[4rem] flex mx-auto mt-[2rem]">
-              <div className=" w-[90%] md:w-[30%] ">
+              <div className=" w-[90%] md:w-[30%] h-[300px] lg:h-[400px]">
                 {eflier ? (
                   <img
                     src={eflier}
                     alt="CYON  Event flier"
-                    className=" md:h-auto object-cover"
+                    className=" h-full object-cover w-full"
                   />
                 ) : (
                   <div className="bg-green w-full h-[200px]  md:h-[400px]"></div>
                 )}
               </div>
               <div className="items-center text-left flex w-full md:w-[65%] lg:w-[60%]">
-                <div className="  mb-[2.5rem]">
+                <div className="  mb-[1rem]">
                   <h2 className="font-bold text-primary text-[1.5rem] md:text-[2rem]">
                     {title}
                   </h2>

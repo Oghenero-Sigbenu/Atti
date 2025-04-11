@@ -11,6 +11,7 @@ import Pharm from "../img/Pharm.jpeg";
 import Col from "../img/col.jpg";
 import Partner from "../Assests/neews.jpeg";
 import Creek from "../Assests/creek.png";
+import Bus from "../img/mobileClinic.jpeg";
 
 export const navLinks = [
   { path: "/", title: "Home", sub: false },
@@ -100,6 +101,21 @@ export const heroImage = [
 ];
 
 export const events = [
+  {
+    eflier: Bus,
+    title: "Mobile Health and Wellness Initiative – Michigan Expansion. ",
+    description:
+      "As an extension of the impactful Creek Health and Wellness Initiative launched in Nigeria, Atti Naomi’s Foundation is proud to introduce the Mobile Health and Wellness Initiative in Michigan. This innovative outreach program is designed to bridge critical gaps in healthcare access by bringing essential services directly to underserved and marginalized communities.",
+    second:
+      "Through mobile clinics and evidence-based care models, we provide health screenings, nutritional counseling, preventive education, and chronic disease management support. This initiative leverages community partnerships, local health systems, and student volunteers to deliver culturally responsive and accessible care — right where people need it most. Our vision is clear: to build healthier communities, reduce disparities, and ensure no one is left behind. ",
+    time: "",
+    date: "",
+    url: "",
+    deadline: "",
+    host: "      Michigan ",
+    amount: "",
+    active: 0,
+  },
   {
     eflier: Creek,
     title:

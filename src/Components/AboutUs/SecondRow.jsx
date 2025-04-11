@@ -1,10 +1,10 @@
-import About1 from "../../img/Out1.jpeg";
+import Bus from "../../img/mobile.jpeg";
 
 function SecondRow() {
   return (
     <div className="flex-reverse flex flex-wrap mb-[4rem] mt-[8rem] max-w-[90%] lg:max-w-[85%] mx-auto ">
       <div className="mb-[4rem]  md:h-[400px] w-full  md:w-[52%]">
-        <img src={About1} alt="" className="md:h-full w-full  object-cover" />
+        <img src={Bus} alt="" className="md:h-full w-full  object-cover" />
       </div>
       <div className="md:w-[40%] mb-[4rem] w-full  md:ml-[6rem] flex items-center">
         <div className="   ">

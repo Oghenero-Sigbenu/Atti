@@ -1,6 +1,7 @@
 import Event from "../../img/Out.jpeg";
-import Event1 from "../../img/Out1.jpeg";
+
 import Event2 from "../../img/Out2.jpeg";
+import Bus from "../../img/mobile.jpeg";
 
 function Gallery() {
   return (
@@ -12,12 +13,12 @@ function Gallery() {
       <div className=" flex flex-wrap  justify-between max-w-[90%] lg:max-w-[85%] py-[2rem] mx-auto">
         <div className="w-full h-[300px] md:w-[30%] mb-[2rem] ">
           <img
-            src={Event1}
+            src={Bus}
             alt="Hero view"
             className="w-[100%] h-[100%] object-cover"
           />
           <h4 className="text-center font-light text-primary  mt-[.5rem]">
-            Medical outreach at ketu.
+            Mobile Health and Wellness Initiative.
           </h4>
         </div>
         <div className="w-full md:w-[30%] mb-[2rem] ">
