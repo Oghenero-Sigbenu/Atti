@@ -65,8 +65,8 @@ function Header() {
                         tabIndex="0"
                         className={`${
                           pageLink === path &&
-                          "text-primary font-extrabold border-b-4 border-[#56bff4] pb-2"
-                        } cursor-pointer hover:text-primary  text-primary text-[1rem] font-medium`}
+                          "text-gray-600 font-extrabold border-b-4 border-[#56bff4] pb-2"
+                        } cursor-pointer hover:text-primary  text-black-600 text-[1rem] font-medium`}
                       >
                         {title}
                       </label>

@@ -8,7 +8,6 @@ import Facebook from "../Assests/facebook.png";
 import Link from "../Assests/link.png";
 import Ketu from "../img/event.jpeg";
 import Pharm from "../img/Pharm.jpeg";
-import Col from "../img/col.jpg";
 import Partner from "../Assests/neews.jpeg";
 import Creek from "../Assests/creek.png";
 import Bus from "../img/mobileClinic.jpeg";
@@ -16,9 +15,10 @@ import Bus from "../img/mobileClinic.jpeg";
 export const navLinks = [
   { path: "/", title: "Home", sub: false },
   { path: "/about-us", title: "About Us", sub: false },
-  { path: "/news", title: "Blog", sub: false },
+  { path: "/news", title: "News", sub: false },
+  { path: "/blog", title: "Blog", sub: false },
   { path: "/contact-us", title: "Contact Us", sub: false },
-  { path: "/financials", title: "Financials", sub: false },
+  // { path: "/financials", title: "Financials", sub: false },
   { path: "/projects", title: "CHW Projects", sub: false },
 ];
 
@@ -44,13 +44,14 @@ export const mediaLinks = [
   // },
 ];
 
+// Omomoemi
 export const executives = [
   {
     photo: Ella,
     title: "Pharm.(Dr.)",
-    names: "Emmanuella Omomoemi ",
+    names: "Emmanuella  ",
     lastName: "Agbegha",
-    position: "Chairman",
+    position: "Founder and Executive director",
   },
   {
     photo: Man,
@@ -71,15 +72,9 @@ export const executives = [
     title: "Pharm.(Dr.)",
     names: " Rosemary",
     lastName: "Chibuogwu",
-    position: "Executive Director",
-  },
-  {
-    photo: Col,
-    title: "Mr.",
-    names: " Collin ",
-    lastName: "O’Connor",
     position: "Director of Programs, USA",
   },
+
   {
     photo: Nero,
     title: "Mrs.",
