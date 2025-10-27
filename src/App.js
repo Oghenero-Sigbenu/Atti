@@ -23,7 +23,9 @@ import ViewBlog from "./Pages/Dashboard/Blog/ViewBlog";
 const Router = createBrowserRouter(
   createRoutesFromElements(
     <Route>
+      <Route path="/login" exact element={<AuthSystem />} />
       <Route path="/" element={<Home />} />
+
       <Route path="/about-us" element={<About />} />
       <Route path="/contact-us" element={<Contact />} />
       <Route path="/news" element={<News />} />
@@ -36,7 +38,6 @@ const Router = createBrowserRouter(
       <Route path="/dashboard/create-blog" element={<CreateBlogPost />} />
       <Route path="/financials" element={<Financials />} />
       <Route path="/executives" element={<Executives />} />
-      <Route path="/login" exact element={<AuthSystem />} />
 
       {/* The Create User (Signup) Page */}
       <Route path="/signup" element={<SignupPage />} />
