@@ -36,7 +36,7 @@ const Router = createBrowserRouter(
       <Route path="/dashboard/create-blog" element={<CreateBlogPost />} />
       <Route path="/financials" element={<Financials />} />
       <Route path="/executives" element={<Executives />} />
-      <Route path="/login" element={<AuthSystem />} />
+      <Route path="/login" exact element={<AuthSystem />} />
 
       {/* The Create User (Signup) Page */}
       <Route path="/signup" element={<SignupPage />} />
