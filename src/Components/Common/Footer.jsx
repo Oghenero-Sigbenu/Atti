@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { mediaLinks } from "../../helpers/data";
 import Logo from "../../img/atti.png";
+import { LocationMarkerIcon } from "@heroicons/react/outline";
 function Footer() {
   return (
     <footer className="bg-green w-full py-10 ">
@@ -16,10 +17,16 @@ function Footer() {
               </span>
               <br></br>
               <span className="font-normal text-sm">
-                FLAT 1, POCAL PARK ESTATE, PLOT 1A,
-                <br /> DELE ADEDEJI STREET, LEKKI PHASE 1 LAGOS.
+                Dele Adedeji Street,
+                <br /> Lekki Phase 1 Lagos, Nigeria.
+              </span>
+              <br></br>
+              <span className="font-normal text-sm">
+                PO Box 6 Whittaker,
+                <br /> MI, USA, 48190.
               </span>
             </p>
+
             <div className="flex gap-2 ml-4 mt-4">
               {mediaLinks?.map(({ path, title, icon }, i) => (
                 <a
@@ -71,7 +78,7 @@ function Footer() {
       </div>
       <div className="max-w-[90%] lg:max-w-[80%] mt-9 mx-auto  p-4 border-t flex justify-center">
         <p className="text-[#ffffffd0] text-sm text-center">
-          &copy; Atti - 2023 | All Rights Reserved{" "}
+          &copy; Atti - 2025 | All Rights Reserved{" "}
         </p>
       </div>
     </footer>

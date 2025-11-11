@@ -9,6 +9,7 @@ import Link from "../Assests/link.png";
 import Ketu from "../img/event.jpeg";
 import Pharm from "../img/Pharm.jpeg";
 import Partner from "../Assests/neews.jpeg";
+import Ashley from "../Assests/Ashley.jpeg";
 import Creek from "../Assests/creek.png";
 import Bus from "../img/mobileClinic.jpeg";
 
@@ -29,13 +30,13 @@ export const mediaLinks = [
     icon: Link,
   },
   {
-    path: "https://instagram.com/attinaomisfoundation?igshid=YzAwZjE1ZTI0Zg==",
+    path: "https://www.instagram.com/atti_naomis_foundation/",
     title: "Instagram",
     icon: Instagram,
   },
   {
     title: "Facebook",
-    path: "https://www.facebook.com/attinaomisfoundation?mibextid=LQQJ4d",
+    path: "Facebook https://www.facebook.com/share/1A26Y4DXJd/",
     icon: Facebook,
   },
   // {
@@ -72,9 +73,15 @@ export const executives = [
     title: "Pharm.(Dr.)",
     names: " Rosemary",
     lastName: "Chibuogwu",
-    position: "Director of Programs, USA",
+    position: "Director of Programs, Nigeria",
   },
-
+  {
+    photo: Ashley,
+    title: "",
+    names: "Ashley ",
+    lastName: "Lueschen",
+    position: "Public Health Advisor ( US)",
+  },
   {
     photo: Nero,
     title: "Mrs.",

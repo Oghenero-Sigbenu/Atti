@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f43708a.css",
+    "main.js": "/static/js/main.ddc6be95.js",
+    "static/js/799.17e72018.chunk.js": "/static/js/799.17e72018.chunk.js",
+    "static/media/Nero.png": "/static/media/Nero.cfb9596a35a8d2ad3f6d.png",
+    "static/media/creek.png": "/static/media/creek.f36bd466250d8e886a25.png",
+    "static/media/hero.png": "/static/media/hero.c597101d5defe9db307d.png",
+    "static/media/atti1.jpeg": "/static/media/atti1.f7284548e798e9e1b2dc.jpeg",
+    "static/media/event.png": "/static/media/event.a20418edbbb82d3808fa.png",
+    "static/media/event2.png": "/static/media/event2.8c730d7227d8a3c2a766.png",
+    "static/media/neews.jpeg": "/static/media/neews.e143ed82e3213392bef7.jpeg",
+    "static/media/event.jpeg": "/static/media/event.ce3ed6e269c031d0142e.jpeg",
+    "static/media/event1.png": "/static/media/event1.f91d9a264bbe7f59265c.png",
+    "static/media/mobile.jpeg": "/static/media/mobile.2264e624b9aba00ca420.jpeg",
+    "static/media/plan.png": "/static/media/plan.11802bc601da1b6ff66b.png",
+    "static/media/Ashley.jpeg": "/static/media/Ashley.db1257a8244c7206f55e.jpeg",
+    "static/media/mobileClinic.jpeg": "/static/media/mobileClinic.352cc8d447b1aa135f1e.jpeg",
+    "static/media/link.png": "/static/media/link.fca54110901eede05699.png",
+    "static/media/Man.jpeg": "/static/media/Man.c3e16c9773e5a2588dd7.jpeg",
+    "static/media/atti.png": "/static/media/atti.08e52e7eec561ee33506.png",
+    "static/media/Philo.jpeg": "/static/media/Philo.5ca1bf7965f6329271f1.jpeg",
+    "static/media/Out2.jpeg": "/static/media/Out2.1228f9e8198e243a01e9.jpeg",
+    "static/media/Out.jpeg": "/static/media/Out.8bb524e64324acf94de6.jpeg",
+    "static/media/Pharm.jpeg": "/static/media/Pharm.f151cac6b2483df2748b.jpeg",
+    "static/media/instan.png": "/static/media/instan.ed071077fc911932f21a.png",
+    "static/media/Ella.jpeg": "/static/media/Ella.96259b289f24b5f8cd34.jpeg",
+    "static/media/facebook.png": "/static/media/facebook.65062c0e6678602327eb.png",
+    "static/media/target.png": "/static/media/target.c265d38c9c8c8bca9071.png",
+    "static/media/vision.png": "/static/media/vision.18106bf4f6ded4ec80e5.png",
+    "index.html": "/index.html",
+    "main.4f43708a.css.map": "/static/css/main.4f43708a.css.map",
+    "main.ddc6be95.js.map": "/static/js/main.ddc6be95.js.map",
+    "799.17e72018.chunk.js.map": "/static/js/799.17e72018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f43708a.css",
+    "static/js/main.ddc6be95.js"
+  ]
+}

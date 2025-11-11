@@ -26,7 +26,6 @@ export default function BlogList({}) {
       const data = await response.json();
 
       if (response.ok) {
-        console.log(data);
         setBlogs(data.blogs || []);
         setTotalNumber(data.totalNumber || 0);
       } else {
@@ -83,19 +82,22 @@ export default function BlogList({}) {
                   <div
                     key={blog.id}
                     onClick={() => View(blog.id)}
-                    className="bg-white  shadow hover:shadow-lg transition-shadow overflow-hidden"
+                    className="bg-white  shadow cursor-pointer  hover:shadow-lg transition-shadow overflow-hidden"
                   >
                     {blog.image && (
                       <img
                         src={blog.image}
                         alt={blog.title}
-                        className="w-full h-48 object-cover"
+                        className="w-full h-[350px] object-fill"
                       />
                     )}
                     <div className="p-6">
                       <h3 className="text-xl font-semibold cursor-pointer hover:text-primary text-gray-900 mb-2 line-clamp-2">
                         {blog.title}
                       </h3>
+                      <a className="cursor-pointer hover:text-primary">
+                        Read more......
+                      </a>
                     </div>
                   </div>
                 ))}

@@ -86,7 +86,7 @@ export default function ViewBlog() {
             )}
 
             <div className="p-8">
-              <h1 className="text-4xl font-bold text-gray-900 mb-4">
+              <h1 className="text-4xl font-bold text-[#56bff4] mb-4">
                 {blog.title}
               </h1>
 

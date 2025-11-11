@@ -20,8 +20,7 @@ function Contact() {
           </p>
           <div className="w-full md:w-[90%]">
             <iframe
-              title="map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.654625016264!2d3.465959910167765!3d6.438382893525969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf51a2a3f49d7%3A0x9904ec4b27f70f2e!2sPocal%20Park%20Estate!5e0!3m2!1sen!2sng!4v1702028811032!5m2!1sen!2sng"
+              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2959.048476109902!2d-83.60278062539024!3d42.12784544974294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1762848647643!5m2!1sen!2sng"
               width={"100%"}
               height="450"
               style={{ border: "0" }}
@@ -41,22 +40,19 @@ function Contact() {
             <div className="flex mb-3 mt-1 ">
               <LocationMarkerIcon className="w-5 mr-3 " />
               <p className="w-full">
-                FLAT 1, POCAL PARK ESTATE, PLOT 1A, DELE ADEDEJI STREET, LEKKI
-                PHASE 1 LAGOS.
+                Dele Adedeji Street, Lekki Phase 1 Lagos, Nigeria.
               </p>
             </div>
             <h4 className="mb-1 mt-3 font-semibold">Head Office USA</h4>
 
             <div className="flex mb-3  mt-1 ">
               <LocationMarkerIcon className="w-5 mr-3 " />
-              <p className="w-full ">
-                4205 Collegiate Way, Mount Pleasant ,Apt 1024, USA
-              </p>
+              <p className="w-full ">PO Box 6 Whittaker, MI, USA, 48190.</p>
             </div>
             <div className="flex mb-3">
               <PhoneIcon className="w-4 mr-3" />
-              <p className="mr-[1rem]">+2348130968441</p>
-              <p>+19894912840</p>
+              <p className="mr-[1rem]">+17342731638</p>
+              <p>+2348130328342</p>
             </div>
             <div className="flex mb-3">
               <MailIcon className="w-4 mr-3" />
